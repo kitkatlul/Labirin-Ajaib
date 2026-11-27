@@ -1,0 +1,109 @@
+# Naskah Suara Narator V3 (bernomor)
+
+Total 96 kalimat. Kolom **Status**: TETAP = sama dengan V2 (file suara lama tetap dipakai, tidak perlu dibuat ulang); BARU = belum ada, buat file baru. Nama file harus persis seperti kolom *Nama file* (huruf kecil), format **mp3**, folder `assets/voice/`.
+
+Gaya: suara anak, ceria, lembut, jelas, tempo tidak terlalu cepat; SATU karakter suara yang sama untuk semua baris.
+
+| No | ID | Nama file | Status | Teks |
+|---|---|---|---|---|
+| 1 | p1 | p1.mp3 | TETAP | Halo, teman-teman! Hari ini kita akan berpetualang ke sebuah tempat yang sangat ajaib. Namanya adalah Labirin Ajaib! |
+| 2 | p2 | p2.mp3 | TETAP | Di dalam labirin ini, ada seekor kelinci kecil yang sedang terjebak. Kelinci itu ingin sekali keluar, tetapi jalannya tertutup oleh pintu yang terkunci. |
+| 3 | p3 | p3.mp3 | TETAP | Untungnya, ada seekor monyet pemberani yang siap membantu! Tapi, untuk menyelamatkan kelinci, kita harus melewati labirin dan menjawab beberapa pertanyaan. |
+| 4 | p4 | p4.mp3 | TETAP | Nah, teman-teman, mau ikut membantu monyet menyelamatkan kelinci? Yuk, kita mulai petualangannya! Ayo, cari jalan yang benar dan selesaikan semua tantangannya! |
+| 5 | l1b | l1b.mp3 | BARU | Yuk, bantu monyet mencari kelinci! Perhatikan jalan di dalam labirin. Kalau menemukan jalan buntu, coba kembali dan pilih jalan yang lain. Jika menemukan pintu terkunci, jawab pertanyaannya dengan benar, ya! |
+| 6 | ctl | ctl.mp3 | TETAP | Tekan tombol panah untuk menggerakkan monyet. Di laptop, kamu bisa pakai tombol panah atau W A S D. |
+| 7 | guide | guide.mp3 | BARU | Cari jalan di dalam labirin. Kalau ada pintu terkunci, jawab pertanyaannya. Kumpulkan bintang sebanyak-banyaknya! |
+| 8 | l2b | l2b.mp3 | BARU | Hebat! Kelinci sudah berhasil diselamatkan. Sekarang, kita harus mencari jalan keluar. Labirinnya lebih besar, jadi perhatikan setiap jalan dengan baik. Yuk, selesaikan tantangan pola warna dan menghitung benda! |
+| 9 | l3b | l3b.mp3 | BARU | Wah, ada Monster Penjaga di depan kita! Jangan takut, ya! Kita bisa melewatinya dengan menjawab soal penjumlahan. Hitung semua benda, lalu pilih gelembung yang berisi angka yang benar! |
+| 10 | search | search.mp3 | TETAP | Ayo, kita cari jalan yang benar! |
+| 11 | help-dead | help-dead.mp3 | BARU | Hmm, jalan ini buntu. Yuk, kembali dan coba jalan yang lain! |
+| 12 | help-junc | help-junc.mp3 | BARU | Coba perhatikan persimpangannya. Kira-kira kita harus ke mana, ya? |
+| 13 | help-look | help-look.mp3 | BARU | Ayo, lihat sekeliling. Ada jalan yang belum kita coba? |
+| 14 | help-try | help-try.mp3 | BARU | Yuk, coba jalan yang lain! |
+| 15 | quiz-ins | quiz-ins.mp3 | TETAP | Ketuk gambar jawaban yang benar, ya! |
+| 16 | door-open | door-open.mp3 | TETAP | Pintunya terbuka! |
+| 17 | pr1 | pr1.mp3 | TETAP | Hebat sekali! |
+| 18 | pr2 | pr2.mp3 | TETAP | Jawabanmu benar! |
+| 19 | pr3 | pr3.mp3 | TETAP | Wah, kamu pintar! |
+| 20 | pr4 | pr4.mp3 | TETAP | Bagus sekali! |
+| 21 | r1 | r1.mp3 | TETAP | Coba lagi ya! |
+| 22 | r2 | r2.mp3 | TETAP | Sedikit lagi! Kamu pasti bisa! |
+| 23 | rescue-n | rescue-n.mp3 | TETAP | Kamu berhasil menyelamatkan kelinci! |
+| 24 | rescue-r | rescue-r.mp3 | TETAP | Terima kasih, Monyet! Kamu baik sekali! |
+| 25 | w1 | w1.mp3 | TETAP | Hore! Kamu mendapat bintang! Yuk, lanjut ke Level dua! |
+| 26 | w2 | w2.mp3 | TETAP | Keren! Jalan menuju Monster Penjaga sudah terbuka! |
+| 27 | w3 | w3.mp3 | TETAP | Monster Penjaga sudah pergi! Kamu hebat sekali! |
+| 28 | m-hi | m-hi.mp3 | TETAP | Halo! Aku Monster Penjaga. Ayo kita main tebak angka! |
+| 29 | m-bye | m-bye.mp3 | TETAP | Aku pergi dulu, ya! Sampai jumpa! |
+| 30 | final | final.mp3 | TETAP | Selamat! Kamu berhasil menyelesaikan permainan! |
+| 31 | q-animal-kucing | q-animal-kucing.mp3 | TETAP | Hewan apa yang bersuara meong? |
+| 32 | q-animal-anjing | q-animal-anjing.mp3 | TETAP | Hewan apa yang bersuara guk guk? |
+| 33 | q-animal-ayam | q-animal-ayam.mp3 | TETAP | Hewan apa yang bersuara kukuruyuk? |
+| 34 | q-animal-sapi | q-animal-sapi.mp3 | TETAP | Hewan apa yang bersuara moo? |
+| 35 | q-animal-bebek | q-animal-bebek.mp3 | TETAP | Hewan apa yang bersuara kwek kwek? |
+| 36 | q-animal-kambing | q-animal-kambing.mp3 | BARU | Hewan apa yang bersuara mbek? |
+| 37 | q-animal-babi | q-animal-babi.mp3 | BARU | Hewan apa yang bersuara oink? |
+| 38 | q-animal-kuda | q-animal-kuda.mp3 | BARU | Hewan apa yang bersuara ihihi? |
+| 39 | q-animal-burung | q-animal-burung.mp3 | BARU | Hewan apa yang bersuara cuit cuit? |
+| 40 | q-animal-singa | q-animal-singa.mp3 | BARU | Hewan apa yang bersuara aum? |
+| 41 | q-shape-lingkaran | q-shape-lingkaran.mp3 | TETAP | Manakah bentuk lingkaran? |
+| 42 | q-shape-lingkaran-b | q-shape-lingkaran-b.mp3 | BARU | Ketuk bentuk lingkaran! |
+| 43 | q-shape-segitiga | q-shape-segitiga.mp3 | TETAP | Manakah bentuk segitiga? |
+| 44 | q-shape-segitiga-b | q-shape-segitiga-b.mp3 | BARU | Ketuk bentuk segitiga! |
+| 45 | q-shape-persegi | q-shape-persegi.mp3 | TETAP | Manakah bentuk persegi? |
+| 46 | q-shape-persegi-b | q-shape-persegi-b.mp3 | BARU | Ketuk bentuk persegi! |
+| 47 | q-shape-persegi-panjang | q-shape-persegi-panjang.mp3 | TETAP | Manakah bentuk persegi panjang? |
+| 48 | q-shape-persegi-panjang-b | q-shape-persegi-panjang-b.mp3 | BARU | Ketuk bentuk persegi panjang! |
+| 49 | q-shape-bintang | q-shape-bintang.mp3 | BARU | Manakah bentuk bintang? |
+| 50 | q-shape-bintang-b | q-shape-bintang-b.mp3 | BARU | Ketuk bentuk bintang! |
+| 51 | q-shape-hati | q-shape-hati.mp3 | BARU | Manakah bentuk hati? |
+| 52 | q-shape-hati-b | q-shape-hati-b.mp3 | BARU | Ketuk bentuk hati! |
+| 53 | q-shape-oval | q-shape-oval.mp3 | BARU | Manakah bentuk oval? |
+| 54 | q-shape-oval-b | q-shape-oval-b.mp3 | BARU | Ketuk bentuk oval! |
+| 55 | q-pattern | q-pattern.mp3 | TETAP | Lengkapi polanya. Warna apa yang selanjutnya? |
+| 56 | q-pattern-2 | q-pattern-2.mp3 | BARU | Perhatikan warnanya. Warna apa yang cocok di tempat tanda tanya? |
+| 57 | q-count | q-count.mp3 | TETAP | Ada berapa apel pada gambar? |
+| 58 | q-cnt-apel-2 | q-cnt-apel-2.mp3 | BARU | Yuk, hitung jumlah apel! |
+| 59 | q-cnt-apel-3 | q-cnt-apel-3.mp3 | BARU | Berapa banyak apel yang kamu lihat? |
+| 60 | q-cnt-pisang-1 | q-cnt-pisang-1.mp3 | BARU | Ada berapa pisang pada gambar? |
+| 61 | q-cnt-pisang-2 | q-cnt-pisang-2.mp3 | BARU | Yuk, hitung jumlah pisang! |
+| 62 | q-cnt-pisang-3 | q-cnt-pisang-3.mp3 | BARU | Berapa banyak pisang yang kamu lihat? |
+| 63 | q-cnt-jeruk-1 | q-cnt-jeruk-1.mp3 | BARU | Ada berapa jeruk pada gambar? |
+| 64 | q-cnt-jeruk-2 | q-cnt-jeruk-2.mp3 | BARU | Yuk, hitung jumlah jeruk! |
+| 65 | q-cnt-jeruk-3 | q-cnt-jeruk-3.mp3 | BARU | Berapa banyak jeruk yang kamu lihat? |
+| 66 | q-cnt-wortel-1 | q-cnt-wortel-1.mp3 | BARU | Ada berapa wortel pada gambar? |
+| 67 | q-cnt-wortel-2 | q-cnt-wortel-2.mp3 | BARU | Yuk, hitung jumlah wortel! |
+| 68 | q-cnt-wortel-3 | q-cnt-wortel-3.mp3 | BARU | Berapa banyak wortel yang kamu lihat? |
+| 69 | q-cnt-bunga-1 | q-cnt-bunga-1.mp3 | BARU | Ada berapa bunga pada gambar? |
+| 70 | q-cnt-bunga-2 | q-cnt-bunga-2.mp3 | BARU | Yuk, hitung jumlah bunga! |
+| 71 | q-cnt-bunga-3 | q-cnt-bunga-3.mp3 | BARU | Berapa banyak bunga yang kamu lihat? |
+| 72 | q-cnt-bintang-1 | q-cnt-bintang-1.mp3 | BARU | Ada berapa bintang pada gambar? |
+| 73 | q-cnt-bintang-2 | q-cnt-bintang-2.mp3 | BARU | Yuk, hitung jumlah bintang! |
+| 74 | q-cnt-bintang-3 | q-cnt-bintang-3.mp3 | BARU | Berapa banyak bintang yang kamu lihat? |
+| 75 | q-add-1-1 | q-add-1-1.mp3 | TETAP | satu tambah satu sama dengan berapa? |
+| 76 | q-add-1-2 | q-add-1-2.mp3 | TETAP | satu tambah dua sama dengan berapa? |
+| 77 | q-add-1-3 | q-add-1-3.mp3 | TETAP | satu tambah tiga sama dengan berapa? |
+| 78 | q-add-1-4 | q-add-1-4.mp3 | TETAP | satu tambah empat sama dengan berapa? |
+| 79 | q-add-1-5 | q-add-1-5.mp3 | BARU | satu tambah lima sama dengan berapa? |
+| 80 | q-add-2-1 | q-add-2-1.mp3 | TETAP | dua tambah satu sama dengan berapa? |
+| 81 | q-add-2-2 | q-add-2-2.mp3 | TETAP | dua tambah dua sama dengan berapa? |
+| 82 | q-add-2-3 | q-add-2-3.mp3 | TETAP | dua tambah tiga sama dengan berapa? |
+| 83 | q-add-2-4 | q-add-2-4.mp3 | TETAP | dua tambah empat sama dengan berapa? |
+| 84 | q-add-2-5 | q-add-2-5.mp3 | BARU | dua tambah lima sama dengan berapa? |
+| 85 | q-add-3-1 | q-add-3-1.mp3 | TETAP | tiga tambah satu sama dengan berapa? |
+| 86 | q-add-3-2 | q-add-3-2.mp3 | TETAP | tiga tambah dua sama dengan berapa? |
+| 87 | q-add-3-3 | q-add-3-3.mp3 | TETAP | tiga tambah tiga sama dengan berapa? |
+| 88 | q-add-3-4 | q-add-3-4.mp3 | BARU | tiga tambah empat sama dengan berapa? |
+| 89 | q-add-3-5 | q-add-3-5.mp3 | BARU | tiga tambah lima sama dengan berapa? |
+| 90 | q-add-4-1 | q-add-4-1.mp3 | TETAP | empat tambah satu sama dengan berapa? |
+| 91 | q-add-4-2 | q-add-4-2.mp3 | BARU | empat tambah dua sama dengan berapa? |
+| 92 | q-add-4-3 | q-add-4-3.mp3 | BARU | empat tambah tiga sama dengan berapa? |
+| 93 | q-add-4-4 | q-add-4-4.mp3 | BARU | empat tambah empat sama dengan berapa? |
+| 94 | q-add-5-1 | q-add-5-1.mp3 | BARU | lima tambah satu sama dengan berapa? |
+| 95 | q-add-5-2 | q-add-5-2.mp3 | BARU | lima tambah dua sama dengan berapa? |
+| 96 | q-add-5-3 | q-add-5-3.mp3 | BARU | lima tambah tiga sama dengan berapa? |
+
+## ID V2 yang tidak dipakai lagi (boleh diabaikan/dihapus)
+- l1 (Yuk, bantu monyet mencari kelinci! Ikuti jalan di dalam labirin. Kalau menemukan pintu yang terkunci, jawab pertanyaannya dengan benar, ya!)
+- l2 (Hebat! Kelinci sudah berhasil diselamatkan. Sekarang, ayo kita cari jalan keluar! Ada tantangan pola warna dan menghitung benda yang harus kita selesaikan.)
+- l3 (Wah, ada Monster Penjaga di depan kita! Jangan takut, ya! Kita bisa melewatinya dengan menjawab soal penjumlahan. Pilih gelembung yang berisi angka yang benar!)
